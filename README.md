@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Engineer and Data Analyst,**
 
-- 💬 Ask me about **Python, HTML, CSS, js**
+- 💬 Ask me about **Python, HTML, CSS, JS, SQL**
 
 - 📫 How to reach me **jesusvivas018@gmail.com**
 
